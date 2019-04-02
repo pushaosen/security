@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: complete
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￦ﾖﾰ￦ﾦﾜ
+Implementation-Vendor-Id: com.jontian
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/complete/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
